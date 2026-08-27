@@ -106,19 +106,20 @@ Estou em busca da minha **primeira oportunidade de estágio em tecnologia**, ond
 
 <p align="left">
 
-  <a href="https://github.com/MirandaDev-creator">
-    <img src="https://img.shields.io/badge/GitHub-MirandaDev--creator-181717?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://github.com/MirandaDev-creator">
+  <img src="https://img.shields.io/badge/GitHub-MirandaDev--creator-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/guilherme-miranda-2b22b6383/">
-    <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Miranda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/guilherme-miranda-2b22b6383/">
+  <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Miranda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:SEU_GMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:guimirasenna16@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-guimirasenna16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
+
 
 
 ---
