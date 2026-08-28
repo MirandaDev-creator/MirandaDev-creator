@@ -32,7 +32,6 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35"> `SOBRE_MIM.exe`
 
 ```yaml
-> INITIALIZING USER PROFILE...
 
 nome:          "Guilherme Miranda"
 cargo:         "Full Stack Developer | AI Enthusiast"
@@ -43,7 +42,7 @@ curiosidade:   "Acredito que código bem escrito é uma forma de arte"
 contato:       "guimirasenna16@gmail.com"
 linkedin:      "linkedin.com/in/guilherme-miranda-2b22b6383"
 
-> STATUS: PROFILE LOADED SUCCESSFULLY ✓
+
 ```
 
 <div align="center">
