@@ -257,23 +257,17 @@ https://github.com/MirandaDev-creator _
 
 <div align="center">
 
-<a href="https://linkedin.com/in/seu-usuario" target="_blank">
+<a href="https://www.linkedin.com/in/guilherme-miranda-2b22b6383/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-00fff2?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 <a href="https://instagram.com/seu-usuario" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-B892FF?style=for-the-badge&logo=instagram&logoColor=black" />
 </a>
-<a href="https://twitter.com/seu-usuario" target="_blank">
-<img src="https://img.shields.io/badge/X_(Twitter)-00fff2?style=for-the-badge&logo=x&logoColor=black" />
-</a>
-<a href="mailto:seuemail@dominio.com" target="_blank">
+<a href="mailto:guimirasenna16@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-B892FF?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
-<a href="https://discord.com/users/seu-usuario" target="_blank">
+<a href="https://discord.com/users/guixin0456" target="_blank">
 <img src="https://img.shields.io/badge/Discord-00fff2?style=for-the-badge&logo=discord&logoColor=black" />
-</a>
-<a href="https://seu-portfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-B892FF?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
 </div>
@@ -296,3 +290,4 @@ https://github.com/MirandaDev-creator _
 <sub>© 2026 MirandaDev-creator · Feito com 💙 e muito café ☕</sub>
 
 </div>
+
