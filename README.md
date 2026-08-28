@@ -1,5 +1,13 @@
 
 
+<!--
+╔══════════════════════════════════════════════════════════════════════════╗
+║  README personalizado — Guilherme Miranda (MirandaDev-creator)          ║
+║  Ajuste os links dos repositórios de projeto conforme os nomes reais    ║
+║  das pastas no seu GitHub (marcados com ✏️ abaixo).                     ║
+╚══════════════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
 <!-- ===================== BANNER / BOOT SEQUENCE ===================== -->
@@ -8,12 +16,12 @@
 <br/>
 
 <!-- Typing animation - terminal boot -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Booting+neural+interface...;%3E+Loading+profile%3A+SEU_NOME;%3E+Access+Level%3A+FULL+STACK+DEVELOPER;%3E+Status%3A+ONLINE+%E2%9C%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Booting+neural+interface...;%3E+Loading+profile%3A+GUILHERME+MIRANDA;%3E+Access+Level%3A+FULL+STACK+DEVELOPER;%3E+Status%3A+ONLINE+%E2%9C%93" alt="Typing SVG" />
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=00fff2&style=for-the-badge&label=SCANS+DETECTED)
-![Followers](https://img.shields.io/github/followers/seu-usuario?color=00fff2&style=for-the-badge&label=FOLLOWERS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=MirandaDev-creator&color=00fff2&style=for-the-badge&label=SCANS+DETECTED)
+![Followers](https://img.shields.io/github/followers/MirandaDev-creator?color=00fff2&style=for-the-badge&label=FOLLOWERS&logo=github)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&logo=statuspage&logoColor=white)
 
 </div>
@@ -30,9 +38,10 @@ nome:          "Guilherme Miranda"
 cargo:         "Full Stack Developer | AI Enthusiast"
 localizacao:   "Brasil 🇧🇷"
 foco_atual:    "Construindo sistemas inteligentes e interfaces do futuro"
-linguagem:     ["Python", "JavaScript", "TypeScript", "css", "HTML"]
+linguagem:     ["Python", "JavaScript", "TypeScript", "CSS", "HTML"]
 curiosidade:   "Acredito que código bem escrito é uma forma de arte"
-contato:       "guimirasenna16@gmai.com", "https://www.linkedin.com/in/guilherme-miranda-2b22b6383/"
+contato:       "guimirasenna16@gmail.com"
+linkedin:      "linkedin.com/in/guilherme-miranda-2b22b6383"
 
 > STATUS: PROFILE LOADED SUCCESSFULLY ✓
 ```
@@ -49,22 +58,19 @@ contato:       "guimirasenna16@gmai.com", "https://www.linkedin.com/in/guilherme
 <div align="center">
 
 ### ⚡ Linguagens
-<img src="https://skillicons.dev/icons?i=python,js,ts,go,rust,java,cpp,php&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" /><br/><br/>
 
 ### ⚡ Frontend
-<img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,html,css,tailwind,svelte&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" /><br/><br/>
 
 ### ⚡ Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,graphql&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,flask&theme=dark" /><br/><br/>
 
 ### ⚡ Banco de Dados
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres&theme=dark" /><br/><br/>
 
-### ⚡ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,terraform,nginx&theme=dark" /><br/><br/>
-
-### ⚡ IA & Data
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py,r,opencv&theme=dark" /><br/>
+### ⚡ IA & Automação
+<img src="https://skillicons.dev/icons?i=py,tensorflow,opencv&theme=dark" /><br/>
 
 </div>
 
@@ -75,14 +81,14 @@ contato:       "guimirasenna16@gmai.com", "https://www.linkedin.com/in/guilherme
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,figma,postman,linux,bash,npm,yarn,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash,npm&theme=dark" />
 
 <br/><br/>
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=00fff2&labelColor=0f0c29)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=00fff2&labelColor=0f0c29)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=00fff2&labelColor=0f0c29)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=00fff2&labelColor=0f0c29)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00fff2&labelColor=0f0c29)
 
 </div>
 
@@ -97,18 +103,18 @@ contato:       "guimirasenna16@gmai.com", "https://www.linkedin.com/in/guilherme
 <tr>
 <td width="50%">
 
-<h3 align="center">AnalisadorYT(Python)API</h3>
+<h3 align="center">🎥 Analisador de Vídeos do YouTube</h3>
 
 <p align="center">
-Aplicação desenvolvida em Python que utiliza a API do YouTube para analisar vídeos a partir de seus links e gerar informações e resumos sobre o conteúdo. O projeto demonstra integração com APIs, processamento de dados e automação de tarefas.
+Aplicação desenvolvida em Python que utiliza a API do YouTube para analisar vídeos a partir de seus links e gerar informações e resumos sobre o conteúdo. Demonstra integração com APIs, processamento de dados e automação de tarefas.
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+<img src="https://skillicons.dev/icons?i=py&theme=dark" />
 </p>
 
 <p align="center">
-<a href="https://github.com/seu-usuario/projeto-1">
+<a href="https://github.com/MirandaDev-creator/analisador-youtube-api">
 <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-00fff2?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 </p>
@@ -116,18 +122,18 @@ Aplicação desenvolvida em Python que utiliza a API do YouTube para analisar v�
 </td>
 <td width="50%">
 
-<h3 align="center">ChatbotAPI(python)</h3>
+<h3 align="center">🤖 Chatbot com API de IA</h3>
 
 <p align="center">
-Chatbot desenvolvido em Python integrado a uma API de inteligência artificial, capaz de processar perguntas e gerar respostas de forma dinâmica. O projeto demonstra o uso de APIs, integração com serviços externos e desenvolvimento de aplicações interativas em Python.
+Chatbot desenvolvido em Python integrado a uma API de inteligência artificial, capaz de processar perguntas e gerar respostas de forma dinâmica. Demonstra uso de APIs, integração com serviços externos e desenvolvimento de aplicações interativas.
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker" />
+<img src="https://skillicons.dev/icons?i=py&theme=dark" />
 </p>
 
 <p align="center">
-<a href="https://github.com/seu-usuario/projeto-2">
+<a href="https://github.com/MirandaDev-creator/chatbot-api-python">
 <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-00fff2?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 </p>
@@ -138,18 +144,18 @@ Chatbot desenvolvido em Python integrado a uma API de inteligência artificial, 
 <tr>
 <td width="50%">
 
-<h3 align="center">Banco de Dados(python)</h3>
+<h3 align="center">📚 Sistema de Banco de Dados (Biblioteca)</h3>
 
 <p align="center">
-Sistema desenvolvido em Python para simular o gerenciamento de um banco de dados de uma biblioteca, permitindo organizar informações como livros, usuários e empréstimos. O projeto demonstra conceitos de lógica de programação, estruturas de dados e gerenciamento de informações.
+Sistema desenvolvido em Python para simular o gerenciamento de um banco de dados de uma biblioteca, permitindo organizar informações como livros, usuários e empréstimos. Demonstra lógica de programação, estruturas de dados e gerenciamento de informações.
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,py,opencv" />
+<img src="https://skillicons.dev/icons?i=py,sqlite&theme=dark" />
 </p>
 
 <p align="center">
-<a href="https://github.com/seu-usuario/projeto-3">
+<a href="https://github.com/MirandaDev-creator/banco-de-dados-biblioteca">
 <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-00fff2?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 </p>
@@ -157,18 +163,18 @@ Sistema desenvolvido em Python para simular o gerenciamento de um banco de dados
 </td>
 <td width="50%">
 
-<h3 align="center">Formulario de Cadastro(html, css, js)</h3>
+<h3 align="center">📝 Formulário de Cadastro</h3>
 
 <p align="center">
-Fazendo...
+Formulário de cadastro construído com HTML, CSS e JavaScript, com validação de campos e foco em experiência de usuário. <em>Projeto em desenvolvimento 🚧</em>
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </p>
 
 <p align="center">
-<a href="https://github.com/seu-usuario/projeto-4">
+<a href="https://github.com/MirandaDev-creator/formulario-cadastro">
 <img src="https://img.shields.io/badge/VER_REPOSITÓRIO-00fff2?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 </p>
@@ -177,7 +183,7 @@ Fazendo...
 </tr>
 </table>
 
-<a href="https://github.com/seu-usuario?tab=repositories">
+<a href="https://github.com/MirandaDev-creator?tab=repositories">
 <img src="https://img.shields.io/badge/VER_TODOS_OS_PROJETOS-→-B892FF?style=for-the-badge" />
 </a>
 
@@ -189,7 +195,7 @@ Fazendo...
 ## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="35"> `CURRENT_MISSION.log`
 
 ```bash
-https://github.com/MirandaDev-creator cat objetivos_2026.txt
+MirandaDev-creator@github:~$ cat objetivos_2026.txt
 
 [ 01 ] ████████████████████░░░░  80%  →  Dominar arquitetura de sistemas distribuídos
 [ 02 ] ██████████████░░░░░░░░░░  55%  →  Aprofundar estudos em IA generativa
@@ -197,10 +203,10 @@ https://github.com/MirandaDev-creator cat objetivos_2026.txt
 [ 04 ] ██████░░░░░░░░░░░░░░░░░░  25%  →  Publicar conteúdo técnico semanalmente
 [ 05 ] ████░░░░░░░░░░░░░░░░░░░░  15%  →  Obter certificação em Cloud (AWS/GCP)
 
-https://github.com/MirandaDev-creator echo "Missão atual: construir algo incrível todos os dias "
-> Missão atual: construir algo incrível todos os dias 
+MirandaDev-creator@github:~$ echo "Missão atual: construir algo incrível todos os dias 🚀"
+> Missão atual: construir algo incrível todos os dias 🚀
 
-https://github.com/MirandaDev-creator _
+MirandaDev-creator@github:~$ _
 ```
 
 <br/>
@@ -210,16 +216,16 @@ https://github.com/MirandaDev-creator _
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=B892FF&text_color=c9d1d9&ring_color=00fff2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MirandaDev-creator&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=B892FF&text_color=c9d1d9&ring_color=00fff2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirandaDev-creator&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dark&hide_border=true&background=0D1117&stroke=00fff2&ring=00fff2&fire=B892FF&currStreakLabel=00fff2" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MirandaDev-creator&theme=dark&hide_border=true&background=0D1117&stroke=00fff2&ring=00fff2&fire=B892FF&currStreakLabel=00fff2" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=react-dark&hide_border=true&bg_color=0d1117&color=00fff2&line=B892FF&point=ffffff&area=true&area_color=00fff2" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MirandaDev-creator&theme=react-dark&hide_border=true&bg_color=0d1117&color=00fff2&line=B892FF&point=ffffff&area=true&area_color=00fff2" width="100%"/>
 
 </div>
 
@@ -230,7 +236,7 @@ https://github.com/MirandaDev-creator _
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=MirandaDev-creator&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)
 
 </div>
 
@@ -244,9 +250,10 @@ https://github.com/MirandaDev-creator _
 <!--
   Para funcionar, crie um GitHub Action com o workflow "Snake" oficial:
   https://github.com/Platane/snk
+  no repositório MirandaDev-creator/MirandaDev-creator.
   Ele irá gerar automaticamente o arquivo abaixo em um branch "output".
 -->
-<img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/MirandaDev-creator/MirandaDev-creator/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -260,14 +267,14 @@ https://github.com/MirandaDev-creator _
 <a href="https://www.linkedin.com/in/guilherme-miranda-2b22b6383/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-00fff2?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
-<a href="https://instagram.com/seu-usuario" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-B892FF?style=for-the-badge&logo=instagram&logoColor=black" />
-</a>
 <a href="mailto:guimirasenna16@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-B892FF?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 <a href="https://discord.com/users/guixin0456" target="_blank">
 <img src="https://img.shields.io/badge/Discord-00fff2?style=for-the-badge&logo=discord&logoColor=black" />
+</a>
+<a href="https://github.com/MirandaDev-creator" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00fff2" />
 </a>
 
 </div>
@@ -287,7 +294,6 @@ https://github.com/MirandaDev-creator _
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,50:0f0c29,100:00d9ff&height=120&section=footer)
 
-<sub>© 2026 MirandaDev-creator · Feito com 💙 e muito café ☕</sub>
+<sub>© 2026 Guilherme Miranda (MirandaDev-creator) · Feito com 💙 e muito café ☕</sub>
 
 </div>
-
