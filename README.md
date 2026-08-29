@@ -102,7 +102,7 @@ linkedin:      "linkedin.com/in/guilherme-miranda-2b22b6383"
 <tr>
 <td width="50%">
 
-<h3 align="center">🎥 Analisador de Vídeos do YouTube</h3>
+<h3 align="center"> Analisador de Vídeos do YouTube</h3>
 
 <p align="center">
 Aplicação desenvolvida em Python que utiliza a API do YouTube para analisar vídeos a partir de seus links e gerar informações e resumos sobre o conteúdo. Demonstra integração com APIs, processamento de dados e automação de tarefas.
@@ -121,7 +121,7 @@ Aplicação desenvolvida em Python que utiliza a API do YouTube para analisar v�
 </td>
 <td width="50%">
 
-<h3 align="center">🤖 Chatbot com API de IA</h3>
+<h3 align="center"> Chatbot com API de IA</h3>
 
 <p align="center">
 Chatbot desenvolvido em Python integrado a uma API de inteligência artificial, capaz de processar perguntas e gerar respostas de forma dinâmica. Demonstra uso de APIs, integração com serviços externos e desenvolvimento de aplicações interativas.
@@ -143,7 +143,7 @@ Chatbot desenvolvido em Python integrado a uma API de inteligência artificial, 
 <tr>
 <td width="50%">
 
-<h3 align="center">📚 Sistema de Banco de Dados (Biblioteca)</h3>
+<h3 align="center"> Sistema de Banco de Dados (Biblioteca)</h3>
 
 <p align="center">
 Sistema desenvolvido em Python para simular o gerenciamento de um banco de dados de uma biblioteca, permitindo organizar informações como livros, usuários e empréstimos. Demonstra lógica de programação, estruturas de dados e gerenciamento de informações.
@@ -162,7 +162,7 @@ Sistema desenvolvido em Python para simular o gerenciamento de um banco de dados
 </td>
 <td width="50%">
 
-<h3 align="center">📝 Formulário de Cadastro</h3>
+<h3 align="center"> Formulário de Cadastro</h3>
 
 <p align="center">
 Formulário de cadastro construído com HTML, CSS e JavaScript, com validação de campos e foco em experiência de usuário. <em>Projeto em desenvolvimento 🚧</em>
@@ -202,8 +202,8 @@ MirandaDev-creator@github:~$ cat objetivos_2026.txt
 [ 04 ] ██████░░░░░░░░░░░░░░░░░░  25%  →  Publicar conteúdo técnico semanalmente
 [ 05 ] ████░░░░░░░░░░░░░░░░░░░░  15%  →  Obter certificação em Cloud (AWS/GCP)
 
-MirandaDev-creator@github:~$ echo "Missão atual: construir algo incrível todos os dias 🚀"
-> Missão atual: construir algo incrível todos os dias 🚀
+MirandaDev-creator@github:~$ echo "Missão atual: construir algo incrível todos os dias "
+> Missão atual: construir algo incrível todos os dias 
 
 MirandaDev-creator@github:~$ _
 ```
