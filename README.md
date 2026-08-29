@@ -4,7 +4,7 @@
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║  README personalizado — Guilherme Miranda (MirandaDev-creator)          ║
 ║  Ajuste os links dos repositórios de projeto conforme os nomes reais    ║
-║  das pastas no seu GitHub (marcados com ✏️ abaixo).                     ║
+║  das pastas no seu GitHub adicione que utilizo java script (marcados com ✏️ abaixo).                     ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 -->
 
