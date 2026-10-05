@@ -14,6 +14,14 @@
 
 <br/>
 
+<div align="center">
+
+<img src="assets/tux-parkour.svg" width="100%" alt="Tux, o pinguim do Linux, fazendo parkour"/>
+
+</div>
+
+<br/>
+
 ## Sobre mim
 
 Desenvolvedor Full Stack com foco em construir sistemas inteligentes e interfaces bem projetadas. Trabalho principalmente com **Python**, **JavaScript** e **TypeScript**, e tenho interesse especial em integração com APIs, automação e inteligência artificial.
